@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="style-dark.css">
+  </head>
+  <body>
+    <form action="thank-you-dark.html"; class="form">
+      <h1 class="h1">Login</h1> <br>
+      <input class="email"; type="email"; name="email"; placeholder="Email" required> <br><br>
+      <input class="password"; type="password"; name="password"; id="myInput" placeholder="Password" required><br><br>
+      <input class="checkbox"; type="checkbox" onclick="myFunction()">
+      <p class="para">Show Password</p>
+      <script>
+function myFunction() {
+  var x = document.getElementById("myInput");
+  if (x.type === "password") {
+    x.type = "text";
+  } else {
+    x.type = "password";
+  }
+}
+</script>
+
+      <input class="button"; type="submit" value="Submit" />
+  <a href="index.html"><input class="tog"; type="button" value="Light mode"/></a>
+  </body>
+</html>

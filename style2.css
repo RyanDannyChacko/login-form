@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{
+  background-color: #e0e0e0;
+  font-family: Montserrat;
+}
+
+.h11{
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 220px;
+  margin-left: 5px;
+  font-size: 150px;
+  font-weight: 700px;
+  color: #e0e0e0;
+  text-shadow: 5px 5px 10px #afafaf,
+             -5px -5px 10px #ffffff;
+}
+
+.tog {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #0077FF;
+  background-color: #e0e0e0;
+  border: none;
+  border-radius: 45px;
+  box-shadow:  5px 5px 10px #bebebe,
+              -5px -5px 10px #ffffff;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  margin-left: 1154px;
+  margin-top: 33px;
+}
+
+.tog:hover {
+   background-color: #0077FF;
+   box-shadow:  5px 5px 10px #bebebe,
+               -5px -5px 10px #ffffff;
+   color: #fff;
+   transform: translateY(-7px);
+}

@@ -11,13 +11,10 @@ It is created using HTML, CSS, and a little bit of Javascript.
 
 ## Screenshots
 
-![Light Mode](https://drive.google.com/file/d/1Kx0slld3oDVRlDCSsPxplMK7ioGb3OHl/view?usp=sharing)
-
-![Light Mode - Thankyou](https://drive.google.com/file/d/1uwDDMKo-8gtTWXffYlWvQxRvrF4iVwVu/view?usp=sharing)
-
-![Dark Mode](https://drive.google.com/file/d/1lRn7S5l5X0h2lKIvOMrxnD-DP2eFnq9v/view?usp=sharing)
-
-![Dark Mode - Thankyou](https://drive.google.com/file/d/1l4skO3ZCvKnQllDzvPCizxi0rZIwPqj7/view?usp=sharing)
+![Light mode](https://user-images.githubusercontent.com/70950418/161420144-2d4ea28f-1835-4519-80a3-8f8a1a4820ba.png)
+![Light mode - Thankyou](https://user-images.githubusercontent.com/70950418/161420168-765f8c34-12fd-43a6-98a0-cb589cd48152.png)
+![Dark mode](https://user-images.githubusercontent.com/70950418/161420166-1edea78c-d974-4650-8fe0-94d18b0eaa8e.png)
+![Dark mode - Thankyou](https://user-images.githubusercontent.com/70950418/161420165-c53d8db3-5440-4eba-971b-b349c6e84c76.png)
 
 
 ## 🔗 Links
